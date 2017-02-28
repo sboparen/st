@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
+static char font[] = "Fixed:pixelsize=20";
+// For using bitmap fonts see https://www.pixelbeat.org/docs/fc_fixed.html
 static int borderpx = 2;
 
 /*

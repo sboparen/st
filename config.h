@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Fixed:pixelsize=20";
+static char font[] = "Misc Fixed:pixelsize=20";
 // For using bitmap fonts see https://www.pixelbeat.org/docs/fc_fixed.html
 static int borderpx = 2;
 
